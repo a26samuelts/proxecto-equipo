@@ -6,7 +6,7 @@ public class Main {
  
         Membro2.presentar();
  
-        // Membro3.presentar();
+        Membro3.presentar();
  
         // Membro4.presentar();
 
