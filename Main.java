@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("=== O noso equipo ===");
+        System.out.println("=== Grupo X ===");
  
         Membro1.presentar();
  
